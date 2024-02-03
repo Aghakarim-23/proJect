@@ -15,5 +15,3 @@ for (let i = 0; i < navLink.length; i++) {
     }
   });
 }
-
-console.log(navLink);
